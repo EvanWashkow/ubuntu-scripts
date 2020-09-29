@@ -1,4 +1,4 @@
-# Fedora Scripts
+# Ubuntu Scripts
 
 Installation scripts for Ubuntu Linux
 
