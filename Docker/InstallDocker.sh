@@ -20,4 +20,4 @@ sudo apt-get install -y docker-ce docker-compose
 
 sudo usermod -aG docker $USER
 
-echo "Please reboot your computer now."
+echo "Please restart your computer."
