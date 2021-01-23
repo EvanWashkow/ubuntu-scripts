@@ -4,3 +4,4 @@
 
 sudo apt update
 sudo apt install snapd
+echo "Please restart your computer."
